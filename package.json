@@ -1,0 +1,19 @@
+{
+  "name": "progressivewebapplication-texteditor-ch-19",
+  "version": "1.0.0",
+  "description": "Text editor",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js --ignore client"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikejmarin25/ProgressiveWebApplication-TextEditor-Ch-19.git"
+  },
+  "author": "Mike Marin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikejmarin25/ProgressiveWebApplication-TextEditor-Ch-19/issues"
+  },
+  "homepage": "https://github.com/mikejmarin25/ProgressiveWebApplication-TextEditor-Ch-19#readme"
+}
